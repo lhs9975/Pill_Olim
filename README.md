@@ -22,29 +22,29 @@ __2023.03.02 ~ 2023.11.14__
 ### Development
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
-## 시스템 구성도
+## 1. 시스템 구성도
 ![시스템 구성도](https://github.com/lhs9975/Pill_Olim/assets/129912761/4b7ccaea-b427-42e2-aad1-cc04953e8b38)
 
-## DB
+## 2. DB
 ![DB](https://github.com/lhs9975/Pill_Olim/assets/129912761/f2afc80a-329b-4e39-99fb-dc31ab82227d)
 
-## UI
+## 3. UI
 ![UI](https://github.com/lhs9975/Pill_Olim/assets/129912761/a976a85e-0822-46df-b031-ecfa2eb147c5)
 
-## Preprocess
-### Remove Background
+## 4. Preprocess
+### 1) Remove Background
 __배경이 존재하는 이미지의 경우 알약 인식 정확도에 영향을 끼칠 수 있어 알약만 추출하는 배경 제거를 진행__
 ![그림 2-7](https://github.com/lhs9975/Pill_Olim/assets/129912761/0e21030d-2e4f-4a87-af1c-d71765ba6e81)
 
-### Shape Preprocess
+### 2) Shape Preprocess
 __모양 학습 진행 시 알약의 색상 및 각인의 영향을 제거하기 위해 이진화 진행__
 ![그림 2-8](https://github.com/lhs9975/Pill_Olim/assets/129912761/aa184188-c86f-47c4-bda8-31e7792ead81)
 
-### Imprint Preprocess
+### 3) Imprint Preprocess
 __GrayScale, Denoise, Histogram Equalization, BlackHat 순으로 전처리를 진행하여 각인 추출__  
 
 ![그림 9](https://github.com/lhs9975/Pill_Olim/assets/129912761/bf2a1e27-ee69-46f3-bc7a-17192f4f9d2f)
 
-### Data Augmentation
+### 4) Data Augmentation
 __데이터 증강을 위해 각인 및 모양 위치 ±10~20% 이동__
 ![그림 2-9](https://github.com/lhs9975/Pill_Olim/assets/129912761/335affbe-9fc6-4994-859a-e303bc3f8bb8)
