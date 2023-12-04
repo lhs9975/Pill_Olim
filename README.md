@@ -66,4 +66,3 @@ __데이터 증강을 위해 각인 및 모양 위치 ±10~20% 이동__
 
 ### 3) ResNet-50
 ![image](https://github.com/lhs9975/Pill_Olim/assets/129912761/454c91e6-a6f3-492f-9b9f-4876456e0669)
-
