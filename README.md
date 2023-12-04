@@ -56,3 +56,7 @@ __GrayScale, Denoise, Histogram Equalization, BlackHat 순으로 전처리를 �
 ### 4) Data Augmentation
 __데이터 증강을 위해 각인 및 모양 위치 ±10~20% 이동__
 ![그림 2-9](https://github.com/lhs9975/Pill_Olim/assets/129912761/335affbe-9fc6-4994-859a-e303bc3f8bb8)
+
+## 6. 학습 결과
+### 1) AlexNet
+![image](https://github.com/lhs9975/Pill_Olim/assets/129912761/b503380a-15f0-4a95-b143-6615f876d710)
