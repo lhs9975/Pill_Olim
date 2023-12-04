@@ -30,3 +30,6 @@ __2023.03.02 ~ 2023.11.14__
 
 ## UI
 ![UI](https://github.com/lhs9975/Pill_Olim/assets/129912761/a976a85e-0822-46df-b031-ecfa2eb147c5)
+
+## 전처리
+### 모양 전처리
