@@ -23,3 +23,14 @@ __2023.03.02 ~ 2023.11.14__
 
 ## 시스템 구성도
 ![시스템 구성도](https://github.com/lhs9975/Pill_Olim/assets/129912761/4b7ccaea-b427-42e2-aad1-cc04953e8b38)
+
+## DB
+![DB](https://github.com/lhs9975/Pill_Olim/assets/129912761/f2afc80a-329b-4e39-99fb-dc31ab82227d)
+
+## UI
+![KakaoTalk_20231204_165240096](https://github.com/lhs9975/Pill_Olim/assets/129912761/20c41686-358e-420f-b756-67fcb45e2a7c)
+![KakaoTalk_20231204_165240096_01](https://github.com/lhs9975/Pill_Olim/assets/129912761/ace9984b-8327-4fba-85ae-21bbd00622e7)
+![KakaoTalk_20231204_165240096_02](https://github.com/lhs9975/Pill_Olim/assets/129912761/00ba0ce6-06f5-4ca0-9b60-6cbbca35ca0e)
+![KakaoTalk_20231204_165240096_03](https://github.com/lhs9975/Pill_Olim/assets/129912761/187b1249-02ca-4850-b6fc-d9158075fd93)
+![KakaoTalk_20231204_165240096_04](https://github.com/lhs9975/Pill_Olim/assets/129912761/da51ce6b-c3b3-4ff4-af4b-fb8e614ad51a)
+![KakaoTalk_20231204_165240096_05](https://github.com/lhs9975/Pill_Olim/assets/129912761/03dfcf2a-d1c0-48ba-85fb-b4611e76f9b1)
