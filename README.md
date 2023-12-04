@@ -31,7 +31,15 @@ __2023.03.02 ~ 2023.11.14__
 ## 3. UI
 ![UI](https://github.com/lhs9975/Pill_Olim/assets/129912761/a976a85e-0822-46df-b031-ecfa2eb147c5)
 
-## 4. Preprocess
+## 4. 데이터 개요
+__60개의 알약을 직접 수집, 모든 알약을 직접 수집하기에 어려움이 있어 약학 정보원의 도움을 받아 5,088개의 알약을 추가로 수집__
+### 1) 직접 수집한 알약
+![그림 2-2](https://github.com/lhs9975/Pill_Olim/assets/129912761/265fa886-8881-42e1-9744-750fb2d7d7b8)
+
+### 2) 약학 정보원에서 제공받은 알약
+![그림 2-1](https://github.com/lhs9975/Pill_Olim/assets/129912761/4b4139aa-a89f-4105-b507-b768383d4441)
+
+## 5. Preprocess
 ### 1) Remove Background
 __배경이 존재하는 이미지의 경우 알약 인식 정확도에 영향을 끼칠 수 있어 알약만 추출하는 배경 제거를 진행__
 ![그림 2-7](https://github.com/lhs9975/Pill_Olim/assets/129912761/0e21030d-2e4f-4a87-af1c-d71765ba6e81)
