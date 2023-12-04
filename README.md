@@ -42,5 +42,6 @@ __모양 학습 진행 시 알약의 색상 및 각인의 영향을 제거하기
 
 ### 각인 전처리
 __GrayScale, Denoise, Histogram Equalization, BlackHat 순으로 전처리를 진행하여 각인 추출__  
+
 ![그림 9](https://github.com/lhs9975/Pill_Olim/assets/129912761/bf2a1e27-ee69-46f3-bc7a-17192f4f9d2f)
 
