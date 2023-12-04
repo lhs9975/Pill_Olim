@@ -60,3 +60,10 @@ __데이터 증강을 위해 각인 및 모양 위치 ±10~20% 이동__
 ## 6. 학습 결과
 ### 1) AlexNet
 ![image](https://github.com/lhs9975/Pill_Olim/assets/129912761/b503380a-15f0-4a95-b143-6615f876d710)
+
+### 2) MobileNet
+![image](https://github.com/lhs9975/Pill_Olim/assets/129912761/4c871244-de3a-4122-bbf8-4d4f60369592)
+
+### 3) ResNet-50
+![image](https://github.com/lhs9975/Pill_Olim/assets/129912761/454c91e6-a6f3-492f-9b9f-4876456e0669)
+
