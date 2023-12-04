@@ -28,4 +28,4 @@ __2023.03.02 ~ 2023.11.14__
 ![DB](https://github.com/lhs9975/Pill_Olim/assets/129912761/f2afc80a-329b-4e39-99fb-dc31ab82227d)
 
 ## UI
-![UI](https://github.com/lhs9975/Pill_Olim/assets/129912761/0ea686b1-7d0c-40f5-b15d-05f01a10a1a4)
+![UI](https://github.com/lhs9975/Pill_Olim/assets/129912761/a976a85e-0822-46df-b031-ecfa2eb147c5)
