@@ -21,4 +21,5 @@ __2023.03.02 ~ 2023.11.14__
 ### Development
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
-## UI 구성
+## 시스템 구성도
+![시스템 구성도](https://github.com/lhs9975/Pill_Olim/assets/129912761/4b7ccaea-b427-42e2-aad1-cc04953e8b38)
